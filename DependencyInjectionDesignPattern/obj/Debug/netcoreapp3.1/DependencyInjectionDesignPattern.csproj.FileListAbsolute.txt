@@ -1,0 +1,13 @@
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\bin\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.exe
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\bin\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.deps.json
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\bin\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.runtimeconfig.json
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\bin\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.runtimeconfig.dev.json
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\bin\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.dll
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\bin\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.pdb
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\obj\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.csprojAssemblyReference.cache
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\obj\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\obj\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.AssemblyInfo.cs
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\obj\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\obj\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.dll
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\obj\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.pdb
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\DependencyInjectionDesignPattern\obj\Debug\netcoreapp3.1\DependencyInjectionDesignPattern.genruntimeconfig.cache
