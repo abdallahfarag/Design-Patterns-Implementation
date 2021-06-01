@@ -1,0 +1,12 @@
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.exe
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.deps.json
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.runtimeconfig.json
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.runtimeconfig.dev.json
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.dll
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfo.cs
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.dll
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
+C:\Users\Abdallah Farag\source\repos\DesignPatterns\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.genruntimeconfig.cache
